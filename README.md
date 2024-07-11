@@ -68,3 +68,18 @@ E) Tuned the random Forest Regressor algorithm
 #### Clone this project
 git clone https://github.com/Ujjwal6710/Medical-Cost-Prediction-Using-Regression.git
 
+## Machine Learing Algorithms Comparison - 
+|  Model Name |  R² Score |   
+|---|---|
+| Random Forest Regressor  | 0.854684  |   
+| XGBRegressor  | 0.847914  |   
+|  AdaBoost Regressor | 0.829981  |   
+|  Linear Regression |  0.779735 |   
+|  Lasso|	0.779713|
+|Ridge|	0.779259|
+|Decision Tree|	0.752976|
+|K-Neighbors Regressor|	0.130766  |
+
+###  After hyperparameter tuning for random forest regressor using grid search we received R2-score of 0.8777 . 
+
+
